@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">LessonOneAndroidStudio</string>
+    <string name="welcom">Добро пожаловать)</string>
+    <string name="age">Возраст</string>
+    <string name="clickMe">Нажми меня!!!</string>
+    <string name="very_good">очень хорошо</string>
+    <string name="ready_adventure">Готовы к развлечениям?</string>
 </resources>
